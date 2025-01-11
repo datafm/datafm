@@ -1,4 +1,7 @@
 ## Hi there 👋
+2nd Workshop on Navigating and Addressing Data Problems for Foundation Models @ ICLR 2025
+
+Singapore
 
 <!--
 **datafm/datafm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
